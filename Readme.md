@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий Савченко](https://up.htmlacademy.ru/javascript/21/user/357741).
-* Наставник: `Неизвестно`.
+* Наставник: [Мурат Баркинхоев] (https://htmlacademy.ru/profile/id186857).
 
 ---
 
